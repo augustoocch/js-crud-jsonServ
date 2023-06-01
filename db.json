@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "name": "Augusto",
+      "email": "augusto.occh@gmail.com",
+      "phone": "1132146435546",
+      "company": "Atlassian",
+      "id": 34
+    },
+    {
+      "name": "Jorge",
+      "email": "jpernas@Gmail.com",
+      "phone": "1124321142",
+      "company": "Atlassian Arg",
+      "id": 35
+    },
+    {
+      "name": "Dani",
+      "email": "dani_alcarmoa@gmail.com",
+      "phone": "1132146431",
+      "company": "Atlassian",
+      "id": 36
+    }
+  ]
+}
